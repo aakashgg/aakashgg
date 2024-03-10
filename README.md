@@ -1,10 +1,7 @@
 <img src="https://your-image-url.com" alt="Banner" width="1200">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyMjlmNjIwMjU1MTJjMjQzYzg2NTEzM2JiNDBkNmFmMjA2ZDhiOCZjdD1n/26u4cqVR8dsmedTJ6/giphy.gif" height="60">, I'm Aakash Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="650"
-      src="https://www.digitalsolutionservices.com/img/services/website1.gif">
+<h1 align="center">Hi 👋, I'm Aakash Gupta</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgg&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgg" /> </p>
 
 - 💬 Talks about **Full Stack Development and Data Structure and Algorithms**
 
