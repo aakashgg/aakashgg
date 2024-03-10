@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgg&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgg" /> </p>
 
-- 💬 Ask me about **Full Stack Development and E-commerce Applications**
+- 💬 Talks about **Full Stack Development and Data Structure and Algorithms**
 
 - 📫 How to reach me **mynameaakash46@gmail.com**
 
