@@ -1,4 +1,4 @@
-<img src="https://your-image-url.com" alt="Banner" width="1200">
+
 <h1 align="center">Hi 👋, I'm Aakash Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
